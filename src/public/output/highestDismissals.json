@@ -1,0 +1,1682 @@
+{
+  "DA Warner": {
+    "bowler": "UT Yadav",
+    "count": 3
+  },
+  "S Dhawan": {
+    "bowler": "JP Faulkner",
+    "count": 4
+  },
+  "MC Henriques": {
+    "bowler": "Sandeep Sharma",
+    "count": 2
+  },
+  "Yuvraj Singh": {
+    "bowler": "UT Yadav",
+    "count": 3
+  },
+  "Mandeep Singh": {
+    "bowler": "MM Sharma",
+    "count": 2
+  },
+  "CH Gayle": {
+    "bowler": "R Ashwin",
+    "count": 4
+  },
+  "TM Head": {
+    "bowler": "Sandeep Sharma",
+    "count": 1
+  },
+  "Sachin Baby": {
+    "bowler": "DS Kulkarni",
+    "count": 1
+  },
+  "STR Binny": {
+    "bowler": "Imran Tahir",
+    "count": 2
+  },
+  "SR Watson": {
+    "bowler": "RA Jadeja",
+    "count": 5
+  },
+  "S Aravind": {
+    "bowler": "GJ Maxwell",
+    "count": 1
+  },
+  "TS Mills": {
+    "bowler": "C de Grandhomme",
+    "count": 1
+  },
+  "PA Patel": {
+    "bowler": "B Kumar",
+    "count": 5
+  },
+  "RG Sharma": {
+    "bowler": "R Vinay Kumar",
+    "count": 6
+  },
+  "JC Buttler": {
+    "bowler": "MM Sharma",
+    "count": 2
+  },
+  "AT Rayudu": {
+    "bowler": "MM Sharma",
+    "count": 5
+  },
+  "KH Pandya": {
+    "bowler": "DR Smith",
+    "count": 1
+  },
+  "N Rana": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "KA Pollard": {
+    "bowler": "MM Sharma",
+    "count": 3
+  },
+  "MA Agarwal": {
+    "bowler": "R Ashwin",
+    "count": 3
+  },
+  "AM Rahane": {
+    "bowler": "B Kumar",
+    "count": 6
+  },
+  "BA Stokes": {
+    "bowler": "Mohammed Shami",
+    "count": 1
+  },
+  "JJ Roy": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "BB McCullum": {
+    "bowler": "PP Chawla",
+    "count": 4
+  },
+  "AJ Finch": {
+    "bowler": "MG Johnson",
+    "count": 3
+  },
+  "KD Karthik": {
+    "bowler": "M Muralitharan",
+    "count": 3
+  },
+  "SPD Smith": {
+    "bowler": "RA Jadeja",
+    "count": 4
+  },
+  "MS Dhoni": {
+    "bowler": "Z Khan",
+    "count": 7
+  },
+  "DT Christian": {
+    "bowler": "MM Patel",
+    "count": 2
+  },
+  "M Vohra": {
+    "bowler": "IC Pandey",
+    "count": 2
+  },
+  "WP Saha": {
+    "bowler": "M Morkel",
+    "count": 3
+  },
+  "HM Amla": {
+    "bowler": "B Kumar",
+    "count": 2
+  },
+  "AR Patel": {
+    "bowler": "DJ Bravo",
+    "count": 2
+  },
+  "KM Jadhav": {
+    "bowler": "HV Patel",
+    "count": 2
+  },
+  "P Negi": {
+    "bowler": "GB Hogg",
+    "count": 2
+  },
+  "AP Tare": {
+    "bowler": "Shakib Al Hasan",
+    "count": 2
+  },
+  "KK Nair": {
+    "bowler": "Harbhajan Singh",
+    "count": 4
+  },
+  "SW Billings": {
+    "bowler": "CJ Jordan",
+    "count": 1
+  },
+  "SV Samson": {
+    "bowler": "MJ McClenaghan",
+    "count": 4
+  },
+  "CH Morris": {
+    "bowler": "UT Yadav",
+    "count": 1
+  },
+  "CR Brathwaite": {
+    "bowler": "CH Gayle",
+    "count": 1
+  },
+  "PJ Cummins": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "RR Pant": {
+    "bowler": "JJ Bumrah",
+    "count": 3
+  },
+  "S Nadeem": {
+    "bowler": "P Negi",
+    "count": 2
+  },
+  "SK Raina": {
+    "bowler": "Harbhajan Singh",
+    "count": 5
+  },
+  "DR Smith": {
+    "bowler": "Harbhajan Singh",
+    "count": 4
+  },
+  "G Gambhir": {
+    "bowler": "Z Khan",
+    "count": 6
+  },
+  "RV Uthappa": {
+    "bowler": "R Ashwin",
+    "count": 4
+  },
+  "CA Lynn": {
+    "bowler": "JJ Bumrah",
+    "count": 2
+  },
+  "YK Pathan": {
+    "bowler": "R Vinay Kumar",
+    "count": 4
+  },
+  "SA Yadav": {
+    "bowler": "MC Henriques",
+    "count": 1
+  },
+  "CR Woakes": {
+    "bowler": "TS Mills",
+    "count": 1
+  },
+  "SP Narine": {
+    "bowler": "MG Johnson",
+    "count": 2
+  },
+  "Vishnu Vinod": {
+    "bowler": "PJ Cummins",
+    "count": 1
+  },
+  "RA Tripathi": {
+    "bowler": "P Negi",
+    "count": 2
+  },
+  "F du Plessis": {
+    "bowler": "Harbhajan Singh",
+    "count": 3
+  },
+  "R Bhatia": {
+    "bowler": "MM Sharma",
+    "count": 2
+  },
+  "DL Chahar": {
+    "bowler": "Z Khan",
+    "count": 1
+  },
+  "A Zampa": {
+    "bowler": "A Nehra",
+    "count": 1
+  },
+  "AB Dinda": {
+    "bowler": "SL Malinga",
+    "count": 2
+  },
+  "DJ Hooda": {
+    "bowler": "DJ Bravo",
+    "count": 2
+  },
+  "BCJ Cutting": {
+    "bowler": "S Kaushik",
+    "count": 1
+  },
+  "V Shankar": {
+    "bowler": "NM Coulter-Nile",
+    "count": 1
+  },
+  "NV Ojha": {
+    "bowler": "RP Singh",
+    "count": 4
+  },
+  "Rashid Khan": {
+    "bowler": "JD Unadkat",
+    "count": 1
+  },
+  "MP Stoinis": {
+    "bowler": "Z Khan",
+    "count": 1
+  },
+  "GJ Maxwell": {
+    "bowler": "A Mishra",
+    "count": 4
+  },
+  "DA Miller": {
+    "bowler": "SL Malinga",
+    "count": 3
+  },
+  "MM Sharma": {
+    "bowler": "P Kumar",
+    "count": 1
+  },
+  "VR Aaron": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "V Kohli": {
+    "bowler": "A Nehra",
+    "count": 6
+  },
+  "AB de Villiers": {
+    "bowler": "PP Chawla",
+    "count": 4
+  },
+  "MJ McClenaghan": {
+    "bowler": "Sandeep Sharma",
+    "count": 1
+  },
+  "Ankit Sharma": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "MK Tiwary": {
+    "bowler": "M Morkel",
+    "count": 4
+  },
+  "SN Thakur": {
+    "bowler": "S Kaul",
+    "count": 1
+  },
+  "MK Pandey": {
+    "bowler": "SL Malinga",
+    "count": 4
+  },
+  "C de Grandhomme": {
+    "bowler": "KV Sharma",
+    "count": 1
+  },
+  "SS Iyer": {
+    "bowler": "Sandeep Sharma",
+    "count": 3
+  },
+  "EJG Morgan": {
+    "bowler": "MR Marsh",
+    "count": 2
+  },
+  "KC Cariappa": {
+    "bowler": "P Kumar",
+    "count": 1
+  },
+  "Ishan Kishan": {
+    "bowler": "Imran Tahir",
+    "count": 2
+  },
+  "S Badree": {
+    "bowler": "AR Patel",
+    "count": 1
+  },
+  "AF Milne": {
+    "bowler": "Imran Tahir",
+    "count": 1
+  },
+  "AD Mathews": {
+    "bowler": "R Vinay Kumar",
+    "count": 3
+  },
+  "Mohammad Nabi": {
+    "bowler": "Sandeep Sharma",
+    "count": 1
+  },
+  "I Sharma": {
+    "bowler": "R Vinay Kumar",
+    "count": 1
+  },
+  "KS Williamson": {
+    "bowler": "CH Morris",
+    "count": 2
+  },
+  "SE Marsh": {
+    "bowler": "B Kumar",
+    "count": 3
+  },
+  "CJ Anderson": {
+    "bowler": "A Nehra",
+    "count": 1
+  },
+  "K Rabada": {
+    "bowler": "KV Sharma",
+    "count": 1
+  },
+  "RA Jadeja": {
+    "bowler": "A Mishra",
+    "count": 4
+  },
+  "AD Nath": {
+    "bowler": "YS Chahal",
+    "count": 1
+  },
+  "AJ Tye": {
+    "bowler": "Sandeep Sharma",
+    "count": 1
+  },
+  "NM Coulter-Nile": {
+    "bowler": "DS Kulkarni",
+    "count": 1
+  },
+  "Kuldeep Yadav": {
+    "bowler": "TG Southee",
+    "count": 1
+  },
+  "YS Chahal": {
+    "bowler": "C de Grandhomme",
+    "count": 1
+  },
+  "KV Sharma": {
+    "bowler": "NM Coulter-Nile",
+    "count": 2
+  },
+  "HH Pandya": {
+    "bowler": "Mustafizur Rahman",
+    "count": 2
+  },
+  "MJ Guptill": {
+    "bowler": "B Kumar",
+    "count": 2
+  },
+  "Anureet Singh": {
+    "bowler": "MA Starc",
+    "count": 1
+  },
+  "IK Pathan": {
+    "bowler": "R Dhawan",
+    "count": 2
+  },
+  "JP Faulkner": {
+    "bowler": "Sandeep Sharma",
+    "count": 2
+  },
+  "Harbhajan Singh": {
+    "bowler": "DJ Bravo",
+    "count": 4
+  },
+  "Mohammed Shami": {
+    "bowler": "AR Patel",
+    "count": 1
+  },
+  "SP Jackson": {
+    "bowler": "Washington Sundar",
+    "count": 1
+  },
+  "PJ Sangwan": {
+    "bowler": "SB Jakati",
+    "count": 1
+  },
+  "Ankit Soni": {
+    "bowler": "S Kaul",
+    "count": 1
+  },
+  "A Choudhary": {
+    "bowler": "MM Sharma",
+    "count": 1
+  },
+  "Bipul Sharma": {
+    "bowler": "CJ Jordan",
+    "count": 1
+  },
+  "B Kumar": {
+    "bowler": "RP Singh",
+    "count": 2
+  },
+  "LMP Simmons": {
+    "bowler": "RA Jadeja",
+    "count": 2
+  },
+  "MN Samuels": {
+    "bowler": "NLTC Perera",
+    "count": 1
+  },
+  "Z Khan": {
+    "bowler": "DW Steyn",
+    "count": 2
+  },
+  "Swapnil Singh": {
+    "bowler": "AD Russell",
+    "count": 1
+  },
+  "P Kumar": {
+    "bowler": "SL Malinga",
+    "count": 3
+  },
+  "MM Patel": {
+    "bowler": "BA Bhatt",
+    "count": 1
+  },
+  "R Tewatia": {
+    "bowler": "AR Patel",
+    "count": 1
+  },
+  "A Mishra": {
+    "bowler": "SL Malinga",
+    "count": 2
+  },
+  "CJ Jordan": {
+    "bowler": "NM Coulter-Nile",
+    "count": 1
+  },
+  "IR Jaggi": {
+    "bowler": "Harbhajan Singh",
+    "count": 1
+  },
+  "PP Chawla": {
+    "bowler": "NLTC Perera",
+    "count": 2
+  },
+  "AS Rajpoot": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "SC Ganguly": {
+    "bowler": "R Vinay Kumar",
+    "count": 3
+  },
+  "RT Ponting": {
+    "bowler": "A Chandila",
+    "count": 1
+  },
+  "DJ Hussey": {
+    "bowler": "SK Trivedi",
+    "count": 4
+  },
+  "R Dravid": {
+    "bowler": "AD Mathews",
+    "count": 3
+  },
+  "JH Kallis": {
+    "bowler": "RP Singh",
+    "count": 4
+  },
+  "W Jaffer": {
+    "bowler": "A Singh",
+    "count": 1
+  },
+  "MV Boucher": {
+    "bowler": "PJ Sangwan",
+    "count": 2
+  },
+  "B Akhil": {
+    "bowler": "M Morkel",
+    "count": 1
+  },
+  "CL White": {
+    "bowler": "P Parameswaran",
+    "count": 2
+  },
+  "SB Joshi": {
+    "bowler": "LR Shukla",
+    "count": 1
+  },
+  "ML Hayden": {
+    "bowler": "KA Pollard",
+    "count": 2
+  },
+  "JDP Oram": {
+    "bowler": "R Vinay Kumar",
+    "count": 2
+  },
+  "K Goel": {
+    "bowler": "MS Gony",
+    "count": 2
+  },
+  "JR Hopes": {
+    "bowler": "PP Chawla",
+    "count": 1
+  },
+  "KC Sangakkara": {
+    "bowler": "R Sharma",
+    "count": 5
+  },
+  "T Kohli": {
+    "bowler": "AB Dinda",
+    "count": 1
+  },
+  "DS Lehmann": {
+    "bowler": "IK Pathan",
+    "count": 1
+  },
+  "M Kaif": {
+    "bowler": "M Muralitharan",
+    "count": 2
+  },
+  "M Rawat": {
+    "bowler": "JH Kallis",
+    "count": 1
+  },
+  "SK Warne": {
+    "bowler": "A Mishra",
+    "count": 2
+  },
+  "V Sehwag": {
+    "bowler": "MM Patel",
+    "count": 3
+  },
+  "L Ronchi": {
+    "bowler": "RP Singh",
+    "count": 1
+  },
+  "DJ Thornely": {
+    "bowler": "Shahid Afridi",
+    "count": 1
+  },
+  "PR Shah": {
+    "bowler": "BJ Hodge",
+    "count": 1
+  },
+  "AM Nayar": {
+    "bowler": "M Kartik",
+    "count": 2
+  },
+  "SM Pollock": {
+    "bowler": "Sohail Tanvir",
+    "count": 1
+  },
+  "S Chanderpaul": {
+    "bowler": "I Sharma",
+    "count": 1
+  },
+  "LRPL Taylor": {
+    "bowler": "JH Kallis",
+    "count": 2
+  },
+  "Y Venugopal Rao": {
+    "bowler": "R Ashwin",
+    "count": 2
+  },
+  "VVS Laxman": {
+    "bowler": "WD Parnell",
+    "count": 1
+  },
+  "AC Gilchrist": {
+    "bowler": "IK Pathan",
+    "count": 4
+  },
+  "SB Styris": {
+    "bowler": "KP Pietersen",
+    "count": 1
+  },
+  "AS Yadav": {
+    "bowler": "JA Morkel",
+    "count": 1
+  },
+  "A Symonds": {
+    "bowler": "A Mishra",
+    "count": 3
+  },
+  "WPUJC Vaas": {
+    "bowler": "PD Collingwood",
+    "count": 1
+  },
+  "SB Bangar": {
+    "bowler": "Kamran Khan",
+    "count": 1
+  },
+  "Mohammad Hafeez": {
+    "bowler": "MM Patel",
+    "count": 1
+  },
+  "DPMD Jayawardene": {
+    "bowler": "I Sharma",
+    "count": 3
+  },
+  "B Lee": {
+    "bowler": "S Sreesanth",
+    "count": 1
+  },
+  "Kamran Akmal": {
+    "bowler": "PP Chawla",
+    "count": 1
+  },
+  "Shahid Afridi": {
+    "bowler": "L Balaji",
+    "count": 1
+  },
+  "MEK Hussey": {
+    "bowler": "Z Khan",
+    "count": 4
+  },
+  "ST Jayasuriya": {
+    "bowler": "RE van der Merwe",
+    "count": 2
+  },
+  "DJ Bravo": {
+    "bowler": "PP Ojha",
+    "count": 3
+  },
+  "MA Khote": {
+    "bowler": "S Sreesanth",
+    "count": 1
+  },
+  "GC Smith": {
+    "bowler": "P Kumar",
+    "count": 2
+  },
+  "RR Sarwan": {
+    "bowler": "L Balaji",
+    "count": 1
+  },
+  "S Sohal": {
+    "bowler": "RP Singh",
+    "count": 2
+  },
+  "S Sreesanth": {
+    "bowler": "R Vinay Kumar",
+    "count": 1
+  },
+  "SS Tiwary": {
+    "bowler": "AB Dinda",
+    "count": 2
+  },
+  "AB Agarkar": {
+    "bowler": "R Ashwin",
+    "count": 1
+  },
+  "M Kartik": {
+    "bowler": "L Balaji",
+    "count": 1
+  },
+  "Shoaib Malik": {
+    "bowler": "L Balaji",
+    "count": 1
+  },
+  "TM Srivastava": {
+    "bowler": "VY Mahesh",
+    "count": 1
+  },
+  "B Chipli": {
+    "bowler": "AG Murtaza",
+    "count": 1
+  },
+  "DW Steyn": {
+    "bowler": "SL Malinga",
+    "count": 2
+  },
+  "DB Das": {
+    "bowler": "S Sreesanth",
+    "count": 2
+  },
+  "HH Gibbs": {
+    "bowler": "Z Khan",
+    "count": 2
+  },
+  "DNT Zoysa": {
+    "bowler": "S Sreesanth",
+    "count": 1
+  },
+  "D Kalyankrishna": {
+    "bowler": "IK Pathan",
+    "count": 1
+  },
+  "SA Asnodkar": {
+    "bowler": "P Kumar",
+    "count": 2
+  },
+  "Salman Butt": {
+    "bowler": "S Sreesanth",
+    "count": 1
+  },
+  "SP Fleming": {
+    "bowler": "DP Vijaykumar",
+    "count": 1
+  },
+  "S Vidyut": {
+    "bowler": "YK Pathan",
+    "count": 1
+  },
+  "JA Morkel": {
+    "bowler": "UT Yadav",
+    "count": 2
+  },
+  "LPC Silva": {
+    "bowler": "AM Nayar",
+    "count": 1
+  },
+  "DB Ravi Teja": {
+    "bowler": "SL Malinga",
+    "count": 3
+  },
+  "RP Singh": {
+    "bowler": "DW Steyn",
+    "count": 2
+  },
+  "Misbah-ul-Haq": {
+    "bowler": "Shahid Afridi",
+    "count": 1
+  },
+  "BJ Hodge": {
+    "bowler": "R Vinay Kumar",
+    "count": 2
+  },
+  "LR Shukla": {
+    "bowler": "Z Khan",
+    "count": 2
+  },
+  "YV Takawale": {
+    "bowler": "R Ashwin",
+    "count": 1
+  },
+  "Mohammad Asif": {
+    "bowler": "DS Kulkarni",
+    "count": 1
+  },
+  "GD McGrath": {
+    "bowler": "DS Kulkarni",
+    "count": 1
+  },
+  "S Badrinath": {
+    "bowler": "MG Johnson",
+    "count": 2
+  },
+  "Joginder Sharma": {
+    "bowler": "Harbhajan Singh",
+    "count": 1
+  },
+  "M Muralitharan": {
+    "bowler": "A Ashish Reddy",
+    "count": 1
+  },
+  "M Ntini": {
+    "bowler": "Sohail Tanvir",
+    "count": 1
+  },
+  "S Anirudha": {
+    "bowler": "Shakib Al Hasan",
+    "count": 1
+  },
+  "Sohail Tanvir": {
+    "bowler": "MF Maharoof",
+    "count": 1
+  },
+  "SK Trivedi": {
+    "bowler": "R Rampaul",
+    "count": 1
+  },
+  "CK Kapugedera": {
+    "bowler": "Sohail Tanvir",
+    "count": 1
+  },
+  "A Chopra": {
+    "bowler": "PP Ojha",
+    "count": 1
+  },
+  "T Taibu": {
+    "bowler": "RP Singh",
+    "count": 1
+  },
+  "SP Goswami": {
+    "bowler": "MM Patel",
+    "count": 2
+  },
+  "R Vinay Kumar": {
+    "bowler": "A Singh",
+    "count": 3
+  },
+  "VRV Singh": {
+    "bowler": "L Balaji",
+    "count": 1
+  },
+  "MF Maharoof": {
+    "bowler": "L Ablish",
+    "count": 1
+  },
+  "AD Mascarenhas": {
+    "bowler": "R Bhatia",
+    "count": 2
+  },
+  "J Arunkumar": {
+    "bowler": "Sohail Tanvir",
+    "count": 1
+  },
+  "VY Mahesh": {
+    "bowler": "MM Patel",
+    "count": 1
+  },
+  "SR Tendulkar": {
+    "bowler": "R Bhatia",
+    "count": 3
+  },
+  "Younis Khan": {
+    "bowler": "IK Pathan",
+    "count": 1
+  },
+  "Niraj Patel": {
+    "bowler": "CK Langeveldt",
+    "count": 1
+  },
+  "D Salunkhe": {
+    "bowler": "JR Hopes",
+    "count": 1
+  },
+  "PP Ojha": {
+    "bowler": "SK Raina",
+    "count": 2
+  },
+  "Shoaib Akhtar": {
+    "bowler": "RR Raje",
+    "count": 1
+  },
+  "TM Dilshan": {
+    "bowler": "S Sreesanth",
+    "count": 3
+  },
+  "DT Patil": {
+    "bowler": "SK Warne",
+    "count": 1
+  },
+  "A Kumble": {
+    "bowler": "YA Abdulla",
+    "count": 1
+  },
+  "Umar Gul": {
+    "bowler": "VRV Singh",
+    "count": 1
+  },
+  "MS Gony": {
+    "bowler": "JP Faulkner",
+    "count": 1
+  },
+  "LA Pomersbach": {
+    "bowler": "RE van der Merwe",
+    "count": 1
+  },
+  "SD Chitnis": {
+    "bowler": "AD Russell",
+    "count": 1
+  },
+  "A Mukund": {
+    "bowler": "SK Trivedi",
+    "count": 1
+  },
+  "WA Mota": {
+    "bowler": "R Ashwin",
+    "count": 1
+  },
+  "JP Duminy": {
+    "bowler": "IC Pandey",
+    "count": 2
+  },
+  "A Flintoff": {
+    "bowler": "A Nehra",
+    "count": 1
+  },
+  "JD Ryder": {
+    "bowler": "YK Pathan",
+    "count": 2
+  },
+  "KP Pietersen": {
+    "bowler": "Harbhajan Singh",
+    "count": 3
+  },
+  "T Henderson": {
+    "bowler": "JD Ryder",
+    "count": 1
+  },
+  "Kamran Khan": {
+    "bowler": "A Kumble",
+    "count": 1
+  },
+  "RS Bopara": {
+    "bowler": "DJ Bravo",
+    "count": 2
+  },
+  "R Bishnoi": {
+    "bowler": "YA Abdulla",
+    "count": 1
+  },
+  "PC Valthaty": {
+    "bowler": "IK Pathan",
+    "count": 2
+  },
+  "RJ Quiney": {
+    "bowler": "A Nehra",
+    "count": 2
+  },
+  "Yashpal Singh": {
+    "bowler": "MM Patel",
+    "count": 1
+  },
+  "Pankaj Singh": {
+    "bowler": "KA Pollard",
+    "count": 1
+  },
+  "FH Edwards": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "AS Raut": {
+    "bowler": "BA Bhatt",
+    "count": 1
+  },
+  "AN Ghosh": {
+    "bowler": "R Vinay Kumar",
+    "count": 1
+  },
+  "BAW Mendis": {
+    "bowler": "CH Gayle",
+    "count": 1
+  },
+  "DL Vettori": {
+    "bowler": "SK Trivedi",
+    "count": 1
+  },
+  "RE van der Merwe": {
+    "bowler": "R Ashwin",
+    "count": 1
+  },
+  "AA Bilakhia": {
+    "bowler": "SK Warne",
+    "count": 1
+  },
+  "TL Suman": {
+    "bowler": "Harbhajan Singh",
+    "count": 3
+  },
+  "GR Napier": {
+    "bowler": "CH Gayle",
+    "count": 1
+  },
+  "MN van Wyk": {
+    "bowler": "DP Nannes",
+    "count": 1
+  },
+  "LA Carseldine": {
+    "bowler": "WPUJC Vaas",
+    "count": 1
+  },
+  "M Vijay": {
+    "bowler": "S Aravind",
+    "count": 4
+  },
+  "L Balaji": {
+    "bowler": "SP Narine",
+    "count": 1
+  },
+  "SB Jakati": {
+    "bowler": "DP Nannes",
+    "count": 1
+  },
+  "M Manhas": {
+    "bowler": "R Bhatia",
+    "count": 1
+  },
+  "SM Katich": {
+    "bowler": "M Muralitharan",
+    "count": 1
+  },
+  "RJ Harris": {
+    "bowler": "MM Patel",
+    "count": 2
+  },
+  "D du Preez": {
+    "bowler": "A Singh",
+    "count": 1
+  },
+  "RR Raje": {
+    "bowler": "R Bhatia",
+    "count": 1
+  },
+  "M Morkel": {
+    "bowler": "AD Mathews",
+    "count": 1
+  },
+  "Shoaib Ahmed": {
+    "bowler": "R Bhatia",
+    "count": 1
+  },
+  "DS Kulkarni": {
+    "bowler": "CJ Jordan",
+    "count": 1
+  },
+  "J Botha": {
+    "bowler": "Anand Rajan",
+    "count": 2
+  },
+  "A Singh": {
+    "bowler": "KA Pollard",
+    "count": 1
+  },
+  "AB McDonald": {
+    "bowler": "S Nadeem",
+    "count": 1
+  },
+  "Y Nagar": {
+    "bowler": "B Lee",
+    "count": 1
+  },
+  "R Ashwin": {
+    "bowler": "Harbhajan Singh",
+    "count": 3
+  },
+  "Mohammad Ashraful": {
+    "bowler": "PJ Sangwan",
+    "count": 1
+  },
+  "CA Pujara": {
+    "bowler": "CJ Anderson",
+    "count": 1
+  },
+  "Anirudh Singh": {
+    "bowler": "JH Kallis",
+    "count": 1
+  },
+  "AA Jhunjhunwala": {
+    "bowler": "M Morkel",
+    "count": 1
+  },
+  "A Uniyal": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "RR Powar": {
+    "bowler": "RE van der Merwe",
+    "count": 1
+  },
+  "JM Kemp": {
+    "bowler": "DP Nannes",
+    "count": 1
+  },
+  "MS Bisla": {
+    "bowler": "A Nehra",
+    "count": 2
+  },
+  "OA Shah": {
+    "bowler": "Z Khan",
+    "count": 2
+  },
+  "RS Gavaskar": {
+    "bowler": "JM Kemp",
+    "count": 1
+  },
+  "SE Bond": {
+    "bowler": "R Ashwin",
+    "count": 1
+  },
+  "DP Nannes": {
+    "bowler": "Harbhajan Singh",
+    "count": 1
+  },
+  "MJ Lumb": {
+    "bowler": "JA Morkel",
+    "count": 2
+  },
+  "DR Martyn": {
+    "bowler": "P Kumar",
+    "count": 1
+  },
+  "S Narwal": {
+    "bowler": "UT Yadav",
+    "count": 1
+  },
+  "P Dogra": {
+    "bowler": "DW Steyn",
+    "count": 1
+  },
+  "AB Barath": {
+    "bowler": "JP Duminy",
+    "count": 1
+  },
+  "FY Fazal": {
+    "bowler": "RP Singh",
+    "count": 1
+  },
+  "R Sathish": {
+    "bowler": "DJ Bravo",
+    "count": 2
+  },
+  "MD Mishra": {
+    "bowler": "P Kumar",
+    "count": 2
+  },
+  "GJ Bailey": {
+    "bowler": "MC Henriques",
+    "count": 3
+  },
+  "J Theron": {
+    "bowler": "SW Tait",
+    "count": 1
+  },
+  "SJ Srivastava": {
+    "bowler": "SW Tait",
+    "count": 1
+  },
+  "R Sharma": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "AC Voges": {
+    "bowler": "AB Dinda",
+    "count": 1
+  },
+  "Jaskaran Singh": {
+    "bowler": "Harbhajan Singh",
+    "count": 1
+  },
+  "KAJ Roach": {
+    "bowler": "Z Khan",
+    "count": 1
+  },
+  "PD Collingwood": {
+    "bowler": "PP Chawla",
+    "count": 1
+  },
+  "CK Langeveldt": {
+    "bowler": "SJ Srivastava",
+    "count": 1
+  },
+  "VS Malik": {
+    "bowler": "Z Khan",
+    "count": 1
+  },
+  "SW Tait": {
+    "bowler": "RP Singh",
+    "count": 1
+  },
+  "A Mithun": {
+    "bowler": "SP Narine",
+    "count": 1
+  },
+  "AP Dole": {
+    "bowler": "Harbhajan Singh",
+    "count": 1
+  },
+  "R McLaren": {
+    "bowler": "A Mishra",
+    "count": 1
+  },
+  "T Thushara": {
+    "bowler": "RJ Harris",
+    "count": 1
+  },
+  "S Sriram": {
+    "bowler": "PP Chawla",
+    "count": 1
+  },
+  "A Nehra": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "C Madan": {
+    "bowler": "AB McDonald",
+    "count": 1
+  },
+  "AG Paunikar": {
+    "bowler": "Iqbal Abdulla",
+    "count": 1
+  },
+  "MR Marsh": {
+    "bowler": "RA Jadeja",
+    "count": 1
+  },
+  "B Sumanth": {
+    "bowler": "DE Bollinger",
+    "count": 1
+  },
+  "Harmeet Singh": {
+    "bowler": "SP Narine",
+    "count": 1
+  },
+  "RV Gomez": {
+    "bowler": "RJ Harris",
+    "count": 1
+  },
+  "UBT Chand": {
+    "bowler": "MM Sharma",
+    "count": 2
+  },
+  "UT Yadav": {
+    "bowler": "Z Khan",
+    "count": 1
+  },
+  "DJ Jacobs": {
+    "bowler": "S Nadeem",
+    "count": 1
+  },
+  "AL Menaria": {
+    "bowler": "PP Chawla",
+    "count": 2
+  },
+  "AUK Pathan": {
+    "bowler": "A Mishra",
+    "count": 1
+  },
+  "Sunny Singh": {
+    "bowler": "DL Vettori",
+    "count": 1
+  },
+  "JJ van der Wath": {
+    "bowler": "PP Chawla",
+    "count": 1
+  },
+  "R Ninan": {
+    "bowler": "DT Christian",
+    "count": 1
+  },
+  "MS Wade": {
+    "bowler": "MR Marsh",
+    "count": 1
+  },
+  "TD Paine": {
+    "bowler": "S Aravind",
+    "count": 1
+  },
+  "WD Parnell": {
+    "bowler": "BE Hendricks",
+    "count": 1
+  },
+  "SB Wagh": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "JEC Franklin": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "Shakib Al Hasan": {
+    "bowler": "SL Malinga",
+    "count": 3
+  },
+  "S Randiv": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "BJ Haddin": {
+    "bowler": "J Syed Mohammad",
+    "count": 1
+  },
+  "NLTC Perera": {
+    "bowler": "SR Watson",
+    "count": 2
+  },
+  "NL McCullum": {
+    "bowler": "DE Bollinger",
+    "count": 1
+  },
+  "RN ten Doeschate": {
+    "bowler": "MC Henriques",
+    "count": 1
+  },
+  "TR Birt": {
+    "bowler": "P Kumar",
+    "count": 1
+  },
+  "SL Malinga": {
+    "bowler": "DJ Bravo",
+    "count": 2
+  },
+  "M Klinger": {
+    "bowler": "CH Gayle",
+    "count": 1
+  },
+  "Harpreet Singh": {
+    "bowler": "SP Narine",
+    "count": 1
+  },
+  "AC Blizzard": {
+    "bowler": "IK Pathan",
+    "count": 1
+  },
+  "CA Ingram": {
+    "bowler": "R Ashwin",
+    "count": 1
+  },
+  "DH Yagnik": {
+    "bowler": "Harbhajan Singh",
+    "count": 2
+  },
+  "KB Arun Karthik": {
+    "bowler": "Harbhajan Singh",
+    "count": 1
+  },
+  "ND Doshi": {
+    "bowler": "P Parameswaran",
+    "count": 1
+  },
+  "CJ Ferguson": {
+    "bowler": "R Bhatia",
+    "count": 1
+  },
+  "Y Gnaneswara Rao": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "S Rana": {
+    "bowler": "DJ Hussey",
+    "count": 1
+  },
+  "DE Bollinger": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "RE Levi": {
+    "bowler": "DW Steyn",
+    "count": 2
+  },
+  "HV Patel": {
+    "bowler": "A Nehra",
+    "count": 2
+  },
+  "DJ Harris": {
+    "bowler": "DJ Hussey",
+    "count": 1
+  },
+  "KK Cooper": {
+    "bowler": "AR Patel",
+    "count": 1
+  },
+  "AA Chavan": {
+    "bowler": "KA Pollard",
+    "count": 1
+  },
+  "GB Hogg": {
+    "bowler": "HV Patel",
+    "count": 1
+  },
+  "RR Bhatkal": {
+    "bowler": "DE Bollinger",
+    "count": 1
+  },
+  "CJ McKay": {
+    "bowler": "IK Pathan",
+    "count": 1
+  },
+  "N Saini": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "Azhar Mahmood": {
+    "bowler": "A Mishra",
+    "count": 2
+  },
+  "A Ashish Reddy": {
+    "bowler": "R Vinay Kumar",
+    "count": 2
+  },
+  "V Pratap Singh": {
+    "bowler": "SL Malinga",
+    "count": 1
+  },
+  "RJ Peterson": {
+    "bowler": "A Nehra",
+    "count": 1
+  },
+  "MJ Clarke": {
+    "bowler": "YK Pathan",
+    "count": 1
+  },
+  "Gurkeerat Singh": {
+    "bowler": "R Ashwin",
+    "count": 2
+  },
+  "AP Majumdar": {
+    "bowler": "Shakib Al Hasan",
+    "count": 1
+  },
+  "PA Reddy": {
+    "bowler": "RP Singh",
+    "count": 1
+  },
+  "AC Thomas": {
+    "bowler": "R Vinay Kumar",
+    "count": 1
+  },
+  "AD Russell": {
+    "bowler": "YS Chahal",
+    "count": 1
+  },
+  "Sunny Gupta": {
+    "bowler": "SB Jakati",
+    "count": 1
+  },
+  "MC Juneja": {
+    "bowler": "Harmeet Singh",
+    "count": 1
+  },
+  "GH Vihari": {
+    "bowler": "SL Malinga",
+    "count": 2
+  },
+  "MDKJ Perera": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "B Laughlin": {
+    "bowler": "KA Pollard",
+    "count": 1
+  },
+  "BMAJ Mendis": {
+    "bowler": "DJG Sammy",
+    "count": 1
+  },
+  "R Rampaul": {
+    "bowler": "PV Tambe",
+    "count": 1
+  },
+  "P Awana": {
+    "bowler": "DJG Sammy",
+    "count": 1
+  },
+  "BJ Rohrer": {
+    "bowler": "AB Dinda",
+    "count": 1
+  },
+  "KL Rahul": {
+    "bowler": "DS Kulkarni",
+    "count": 3
+  },
+  "J Syed Mohammad": {
+    "bowler": "DR Smith",
+    "count": 1
+  },
+  "Q de Kock": {
+    "bowler": "AD Russell",
+    "count": 2
+  },
+  "BB Samantray": {
+    "bowler": "JP Faulkner",
+    "count": 1
+  },
+  "R Dhawan": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "MG Johnson": {
+    "bowler": "JP Faulkner",
+    "count": 3
+  },
+  "LJ Wright": {
+    "bowler": "S Kaul",
+    "count": 1
+  },
+  "AG Murtaza": {
+    "bowler": "CH Gayle",
+    "count": 1
+  },
+  "IC Pandey": {
+    "bowler": "CH Gayle",
+    "count": 1
+  },
+  "X Thalaivan Sargunam": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "DJG Sammy": {
+    "bowler": "Shakib Al Hasan",
+    "count": 2
+  },
+  "KW Richardson": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "CM Gautam": {
+    "bowler": "A Nehra",
+    "count": 1
+  },
+  "UA Birla": {
+    "bowler": "Iqbal Abdulla",
+    "count": 1
+  },
+  "Parvez Rasool": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "NJ Maddinson": {
+    "bowler": "IC Pandey",
+    "count": 1
+  },
+  "JDS Neesham": {
+    "bowler": "Karanveer Singh",
+    "count": 1
+  },
+  "TG Southee": {
+    "bowler": "MM Sharma",
+    "count": 1
+  },
+  "MA Starc": {
+    "bowler": "MM Sharma",
+    "count": 1
+  },
+  "BR Dunk": {
+    "bowler": "HV Patel",
+    "count": 1
+  },
+  "RR Rossouw": {
+    "bowler": "A Nehra",
+    "count": 2
+  },
+  "PV Tambe": {
+    "bowler": "IK Pathan",
+    "count": 1
+  },
+  "Shivam Sharma": {
+    "bowler": "MA Starc",
+    "count": 1
+  },
+  "VH Zol": {
+    "bowler": "MM Sharma",
+    "count": 1
+  },
+  "Imran Tahir": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "R Shukla": {
+    "bowler": "KK Cooper",
+    "count": 1
+  },
+  "BE Hendricks": {
+    "bowler": "JJ Bumrah",
+    "count": 1
+  },
+  "M de Lange": {
+    "bowler": "Imran Tahir",
+    "count": 1
+  },
+  "JD Unadkat": {
+    "bowler": "MG Johnson",
+    "count": 1
+  },
+  "SA Abbott": {
+    "bowler": "TA Boult",
+    "count": 1
+  },
+  "AN Ahmed": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "SN Khan": {
+    "bowler": "JJ Bumrah",
+    "count": 1
+  },
+  "D Wiese": {
+    "bowler": "DJ Bravo",
+    "count": 2
+  },
+  "Iqbal Abdulla": {
+    "bowler": "DJ Bravo",
+    "count": 1
+  },
+  "Karanveer Singh": {
+    "bowler": "MA Starc",
+    "count": 1
+  },
+  "Sandeep Sharma": {
+    "bowler": "YS Chahal",
+    "count": 1
+  },
+  "J Suchith": {
+    "bowler": "YS Chahal",
+    "count": 1
+  },
+  "S Gopal": {
+    "bowler": "M Ashwin",
+    "count": 1
+  },
+  "M Ashwin": {
+    "bowler": "KW Richardson",
+    "count": 1
+  },
+  "NS Naik": {
+    "bowler": "JJ Bumrah",
+    "count": 1
+  },
+  "PSP Handscomb": {
+    "bowler": "Harbhajan Singh",
+    "count": 1
+  },
+  "UT Khawaja": {
+    "bowler": "Gurkeerat Singh",
+    "count": 1
+  },
+  "JJ Bumrah": {
+    "bowler": "BB Sran",
+    "count": 1
+  },
+  "S Kaushik": {
+    "bowler": "Sachin Baby",
+    "count": 1
+  },
+  "F Behardien": {
+    "bowler": "AB Dinda",
+    "count": 1
+  },
+  "KJ Abbott": {
+    "bowler": "YS Chahal",
+    "count": 1
+  },
+  "JO Holder": {
+    "bowler": "B Kumar",
+    "count": 1
+  },
+  "C Munro": {
+    "bowler": "DJ Hooda",
+    "count": 1
+  },
+  "ER Dwivedi": {
+    "bowler": "B Kumar",
+    "count": 1
+  }
+}
