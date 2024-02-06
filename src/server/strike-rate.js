@@ -1,32 +1,31 @@
-
-
 const fs = require('fs');
-
-
 const deliveriesData = require('./../public/output/deliveries.json');
-
 const matchesData = require('./../public/output/matches.json');
 
 function calculateStrikeRatePerSeason(deliveriesData, matchesData) {
-
     const strikeRatePerSeason = {};
 
     // Iterate over deliveries data
-
-    deliveriesData.forEach((delivery) => {
+    for (let i = 0; i < deliveriesData.length; i++) {
+        const delivery = deliveriesData[i];
         const matchId = delivery.match_id;
         const batsman = delivery.batsman;
         const runs = parseInt(delivery.batsman_runs);
         const extras = parseInt(delivery.extras);
 
         // Find the corresponding match in matches data
+        let match;
+        for (let j = 0; j < matchesData.length; j++) {
+            if (matchesData[j].id === matchId) {
+                match = matchesData[j];
+                break;
+            }
+        }
 
-        const match = matchesData.find(match => match.id === matchId);
         if (match) {
             const season = match.season;
 
             // Increment balls faced for valid deliveries
-
             if (runs !== 0 || extras === 0) {
                 if (!strikeRatePerSeason[season]) {
                     strikeRatePerSeason[season] = {};
@@ -40,11 +39,15 @@ function calculateStrikeRatePerSeason(deliveriesData, matchesData) {
                 strikeRatePerSeason[season][batsman].balls++;
             }
         }
-    });
+    }
 
     // Calculate strike rate for each batsman in each season
-    for (const season in strikeRatePerSeason) {
-        for (const batsman in strikeRatePerSeason[season]) {
+    const seasons = Object.keys(strikeRatePerSeason);
+    for (let i = 0; i < seasons.length; i++) {
+        const season = seasons[i];
+        const batsmen = Object.keys(strikeRatePerSeason[season]);
+        for (let j = 0; j < batsmen.length; j++) {
+            const batsman = batsmen[j];
             const { runs, balls } = strikeRatePerSeason[season][batsman];
             const strikeRate = (runs / balls) * 100;
 

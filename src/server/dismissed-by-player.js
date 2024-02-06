@@ -3,7 +3,8 @@ const fs = require('fs');
 
 const dismissalCount = {};
 
-deliveriesData.forEach(delivery => {
+for (let i = 0; i < deliveriesData.length; i++) {
+    const delivery = deliveriesData[i];
     const dismissedPlayer = delivery.player_dismissed;
     const dismissalKind = delivery.dismissal_kind;
 
@@ -11,18 +12,29 @@ deliveriesData.forEach(delivery => {
         if (!dismissalCount[dismissedPlayer]) {
             dismissalCount[dismissedPlayer] = {};
         }
-        if (!dismissalCount[dismissedPlayer][delivery.bowler]) {
-            dismissalCount[dismissedPlayer][delivery.bowler] = 1;
+        const bowler = delivery.bowler;
+        if (!dismissalCount[dismissedPlayer][bowler]) {
+            dismissalCount[dismissedPlayer][bowler] = 1;
         } else {
-            dismissalCount[dismissedPlayer][delivery.bowler]++;
+            dismissalCount[dismissedPlayer][bowler]++;
         }
     }
-});
+}
 
 const highestDismissalCount = {};
-for (const dismissedPlayer in dismissalCount) {
+const dismissedPlayers = Object.keys(dismissalCount);
+for (let i = 0; i < dismissedPlayers.length; i++) {
+    const dismissedPlayer = dismissedPlayers[i];
     const bowlers = dismissalCount[dismissedPlayer];
-    const highestBowler = Object.keys(bowlers).reduce((a, b) => bowlers[a] > bowlers[b] ? a : b);
+    let highestBowler;
+    const bowlerNames = Object.keys(bowlers);
+    for (let j = 0; j < bowlerNames.length; j++) {
+        const currentBowler = bowlerNames[j];
+        if (!highestBowler || bowlers[currentBowler] > bowlers[highestBowler]) {
+            highestBowler = currentBowler;
+        }
+    }
+
     highestDismissalCount[dismissedPlayer] = {
         bowler: highestBowler,
         count: bowlers[highestBowler]

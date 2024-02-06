@@ -4,11 +4,12 @@ const fs = require('fs');
 
 const economyRates = {};
 
-deliveriesData.forEach(delivery => {
-    const match = matchesData.find(match => match.id === delivery.match_id);
-    const year = match.season;
+for (let i = 0; i < deliveriesData.length; i++) {
+    const delivery = deliveriesData[i];
+    const matchId = delivery.match_id;
+    const match = matchesData.find(match => match.id === matchId);
 
-    if (year === '2015') {
+    if (match && match.season === '2015') {
         const bowler = delivery.bowler;
         const runs = parseInt(delivery.total_runs);
         const extras = parseInt(delivery.extra_runs);
@@ -20,14 +21,15 @@ deliveriesData.forEach(delivery => {
             economyRates[bowler] += (runs - extras) / balls;
         }
     }
-});
+}
 
-const top10EconomicalBowlers = Object.keys(economyRates)
-    .sort((a, b) => economyRates[a] - economyRates[b])
-    .slice(0, 10)
-    .reduce((obj, key) => {
-        obj[key] = economyRates[key];
-        return obj;
-    }, {});
+const bowlersSortedByEconomy = Object.keys(economyRates)
+    .sort((a, b) => economyRates[a] - economyRates[b]);
+
+const top10EconomicalBowlers = {};
+for (let i = 0; i < Math.min(10, bowlersSortedByEconomy.length); i++) {
+    const bowler = bowlersSortedByEconomy[i];
+    top10EconomicalBowlers[bowler] = economyRates[bowler];
+}
 
 fs.writeFileSync('./../public/output/topEconomicalBowlers_2015.json', JSON.stringify(top10EconomicalBowlers, null, 2));
